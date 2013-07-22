@@ -1,4 +1,4 @@
-symface
+Faces Workshop  
 =======
 
-Symmetrical faces generator from mirrored halves of a picture.
+Experiments on face pictures manipulation.
